@@ -1,6 +1,4 @@
-part of 'store_details_cubit.dart';
 
-@immutable
 abstract class StoreDetailsState {}
 
 class StoreDetailsInitial extends StoreDetailsState {}

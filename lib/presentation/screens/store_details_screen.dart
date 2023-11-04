@@ -8,6 +8,7 @@ import 'package:conditional_builder_null_safety/conditional_builder_null_safety.
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_svg/svg.dart';
+import '../../business_logic/store_details_state.dart';
 import '../widgets/app_bar_widget.dart';
 import '../widgets/bottom_box_widget.dart';
 import '../widgets/left_section_widget.dart';
